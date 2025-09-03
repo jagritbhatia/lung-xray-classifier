@@ -152,14 +152,7 @@ from tqdm import tqdm
 
 ---
 
-## 📈 Example Plots
 
-The notebook generates plots for:
-
-* Training Loss
-* Training Accuracy
-* Test Loss
-* Test Accuracy
 
 These help visualize learning progress across epochs.
 
