@@ -15,21 +15,21 @@ The work follows concepts and examples from *Computer Vision Projects with PyTor
 
 Here are a few sample chest X-ray images from the dataset:
 
-![Normal](Normal.png)
-![Pneumonia](images/Pneumonia.png)
+![Normal](https://github.com/jagritbhatia/lung-xray-classifier/blob/main/Normal.PNG?raw=true)
+![Pneumonia](https://github.com/jagritbhatia/lung-xray-classifier/blob/main/Pneumonia.PNG?raw=true)
 
 ---
 
 ## 📊 Model Performance Screenshots
 
 ### 1. Baseline CNN
-![Baseline Model Output](images/baseline_output.png)
+![Baseline Model Output](https://github.com/jagritbhatia/lung-xray-classifier/blob/main/baseline_output.PNG?raw=true)
 
 ### 2. CNN with Augmentation
-![Augmentation Model Output](images/augmentation_output.png)
+![Augmentation Model Output](https://github.com/jagritbhatia/lung-xray-classifier/blob/main/augmentation_output.PNG?raw=true)
 
 ### 3. CNN with Batch Normalization
-![BatchNorm Model Output](images/batchnorm_output.png)
+![BatchNorm Model Output](https://github.com/jagritbhatia/lung-xray-classifier/blob/main/batchnorm_output.PNG?raw=true)
 
 ## 📂 Dataset
 
