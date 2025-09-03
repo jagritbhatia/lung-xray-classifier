@@ -15,7 +15,7 @@ The work follows concepts and examples from *Computer Vision Projects with PyTor
 
 Here are a few sample chest X-ray images from the dataset:
 
-![Normal](images/Normal.png)
+![Normal](Normal.png)
 ![Pneumonia](images/Pneumonia.png)
 
 ---
